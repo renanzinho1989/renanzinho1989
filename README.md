@@ -69,57 +69,6 @@
   Curto jogos que exigem leitura, timing, estrategia e tomada de decisao. Esse estilo aparece no meu jeito de aprender, montar projetos e evoluir no GitHub.
 </p>
 
-## Projetos em destaque
-
-<p align="center">
-  Deixei esta area pronta para destacar projetos com uma linha mais profissional e moderna.
-</p>
-
-<table align="center">
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Frontend Project</h3>
-      <p align="center">Espaco ideal para destacar um site, portfolio ou interface feita com JavaScript e foco em experiencia visual.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-1572b6?style=flat-square&logo=css3&logoColor=ffffff" alt="CSS" />
-      </p>
-      <p align="center"><strong>Status:</strong> pronto para personalizar</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Python Utility</h3>
-      <p align="center">Um bom lugar para mostrar automacoes, scripts, utilitarios e estudos praticos com Python.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
-        <img src="https://img.shields.io/badge/CLI-111827?style=flat-square&logo=gnubash&logoColor=ffffff" alt="CLI" />
-        <img src="https://img.shields.io/badge/Automation-f97316?style=flat-square" alt="Automation" />
-      </p>
-      <p align="center"><strong>Status:</strong> pronto para personalizar</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Linux Workflow</h3>
-      <p align="center">Perfeito para destacar scripts, configuracoes e estudos que mostrem sua evolucao no ambiente Linux.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" alt="Linux" />
-        <img src="https://img.shields.io/badge/Bash-4eaa25?style=flat-square&logo=gnubash&logoColor=ffffff" alt="Bash" />
-        <img src="https://img.shields.io/badge/Workflow-111827?style=flat-square" alt="Workflow" />
-      </p>
-      <p align="center"><strong>Status:</strong> pronto para personalizar</p>
-    </td>
-  </tr>
-</table>
-
-## Atividade no GitHub
-
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=renanzinho1989&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequencia de contribuicoes de Renanzinho 1989" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renanzinho1989&bg_color=0b0f14&color=fdba74&line=f97316&point=fb923c&area=true&hide_border=true" alt="Grafico de atividade do GitHub" />
-</p>
-
 ## Contato
 
 <p align="center">
