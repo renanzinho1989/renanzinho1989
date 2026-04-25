@@ -14,49 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=renanzinho1989&style=for-the-badge&color=ea580c&label=Visualizacoes" alt="Visualizacoes do perfil" />
 </p>
 
-<h1 align="center">Perfil profissional com energia gamer</h1>
-
-<p align="center">
-  Estudo desenvolvimento com a mesma mentalidade que levo para o CS2: foco, leitura de jogo,
-  consistencia e vontade de evoluir a cada partida e a cada projeto. No eFootball, curto visao de jogo,
-  construcao e tomada de decisao. Tento levar tudo isso tambem para o codigo.
-</p>
-
-<table align="center">
-  <tr>
-    <td width="58%" valign="top">
-      <h2>Perfil</h2>
-      <ul>
-        <li>Estou construindo minha base em tecnologia com pratica, curiosidade e disciplina.</li>
-        <li>Atualmente estudo Linux, JavaScript, Python e ferramentas que fazem parte da rotina dev.</li>
-        <li>Gosto de transformar aprendizado em projeto e manter meu GitHub como vitrine da minha evolucao.</li>
-        <li>No CS2 valorizo estrategia, leitura, comunicacao e execucao. No eFootball, ritmo, visao e construcao de jogada.</li>
-        <li>No codigo, aplico a mesma postura: foco, paciencia e melhoria continua.</li>
-      </ul>
-      <h2>Stack atual</h2>
-      <p>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python" />
-        <img src="https://img.shields.io/badge/PyCharm-111827?style=for-the-badge&logo=pycharm&logoColor=00ff88" alt="PyCharm" />
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VS Code" />
-      </p>
-      <h2>Mentalidade competitiva</h2>
-      <ul>
-        <li>Foco em execucao limpa, aprendizado continuo e melhoria constante.</li>
-        <li>Comunicacao, estrategia e consistencia como base para crescer em equipe.</li>
-        <li>CS2 traz leitura tatica. eFootball traz visao de jogo. Desenvolvimento exige os dois.</li>
-        <li>Pressao vira treino. Erro vira revisao. Evolucao vira rotina.</li>
-      </ul>
-    </td>
-    <td width="42%" valign="top" align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanzinho1989&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatisticas do GitHub de Renanzinho 1989" />
-      <br />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanzinho1989&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por Renanzinho 1989" />
-    </td>
-  </tr>
-</table>
-
 ## Gaming DNA
 
 <p align="center">
