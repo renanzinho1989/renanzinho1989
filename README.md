@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Renanzinho%201989&fontAlign=50&fontAlignY=38&desc=Developer%20in%20progress%20%7C%20CS2%20player%20%7C%20Competitive%20mindset&descAlign=50&descAlignY=58&fontColor=ffffff&descColor=fdba74&fontSize=46&color=0:0b0f14,45:111827,75:1f2937,100:f97316" alt="Banner do perfil do Renanzinho 1989" />
+  <img src="./assets/gamer-banner.svg" alt="Banner gamer do perfil do Renanzinho 1989" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Ola%2C+eu+sou+o+Renanzinho+1989;Tecnologia+com+mentalidade+competitiva;Linux%2C+JavaScript%2C+Python+e+CS2" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=900&color=F97316&center=true&vCenter=true&width=900&lines=Ola%2C+eu+sou+o+Renanzinho+1989;Tecnologia+com+mentalidade+competitiva;Linux%2C+JavaScript%2C+Python%2C+CS2+e+eFootball" alt="Texto animado" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/renanzinho1989?style=for-the-badge&logo=github&label=Seguidores&color=111827" alt="Seguidores do GitHub" />
   <img src="https://img.shields.io/badge/CS2-Competitive%20Mindset-f97316?style=for-the-badge" alt="CS2 Competitive Mindset" />
+  <img src="https://img.shields.io/badge/eFootball-Playmaker%20Mode-22c55e?style=for-the-badge" alt="eFootball Playmaker Mode" />
   <img src="https://img.shields.io/badge/FOCO-Disciplina%20e%20evolucao-f59e0b?style=for-the-badge" alt="Foco em disciplina e evolucao" />
   <img src="https://komarev.com/ghpvc/?username=renanzinho1989&style=for-the-badge&color=ea580c&label=Visualizacoes" alt="Visualizacoes do perfil" />
 </p>
@@ -17,7 +18,8 @@
 
 <p align="center">
   Estudo desenvolvimento com a mesma mentalidade que levo para o CS2: foco, leitura de jogo,
-  consistencia e vontade de evoluir a cada partida e a cada projeto.
+  consistencia e vontade de evoluir a cada partida e a cada projeto. No eFootball, curto visao de jogo,
+  construcao e tomada de decisao. Tento levar tudo isso tambem para o codigo.
 </p>
 
 <table align="center">
@@ -28,7 +30,8 @@
         <li>Estou construindo minha base em tecnologia com pratica, curiosidade e disciplina.</li>
         <li>Atualmente estudo Linux, JavaScript, Python e ferramentas que fazem parte da rotina dev.</li>
         <li>Gosto de transformar aprendizado em projeto e manter meu GitHub como vitrine da minha evolucao.</li>
-        <li>No CS2 valorizo estrategia, leitura, comunicacao e execucao. No codigo, aplico a mesma postura.</li>
+        <li>No CS2 valorizo estrategia, leitura, comunicacao e execucao. No eFootball, ritmo, visao e construcao de jogada.</li>
+        <li>No codigo, aplico a mesma postura: foco, paciencia e melhoria continua.</li>
       </ul>
       <h2>Stack atual</h2>
       <p>
@@ -42,6 +45,7 @@
       <ul>
         <li>Foco em execucao limpa, aprendizado continuo e melhoria constante.</li>
         <li>Comunicacao, estrategia e consistencia como base para crescer em equipe.</li>
+        <li>CS2 traz leitura tatica. eFootball traz visao de jogo. Desenvolvimento exige os dois.</li>
         <li>Pressao vira treino. Erro vira revisao. Evolucao vira rotina.</li>
       </ul>
     </td>
@@ -52,6 +56,18 @@
     </td>
   </tr>
 </table>
+
+## Gaming DNA
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FPS-CS2-f97316?style=for-the-badge&logo=counter-strike&logoColor=ffffff" alt="CS2" />
+  <img src="https://img.shields.io/badge/Football-eFootball-22c55e?style=for-the-badge" alt="eFootball" />
+  <img src="https://img.shields.io/badge/Style-Tatico%20e%20competitivo-111827?style=for-the-badge" alt="Estilo tatico e competitivo" />
+</p>
+
+<p align="center">
+  Curto jogos que exigem leitura, timing, estrategia e tomada de decisao. Esse estilo aparece no meu jeito de aprender, montar projetos e evoluir no GitHub.
+</p>
 
 ## Projetos em destaque
 
